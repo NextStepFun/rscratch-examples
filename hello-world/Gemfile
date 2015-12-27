@@ -1,0 +1,4 @@
+source 'http://rubygems.org'
+
+gem 'rscratch'
+gem 'rscratch-media-pack'
